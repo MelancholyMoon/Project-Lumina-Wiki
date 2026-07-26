@@ -19,23 +19,17 @@ Several Project Lumina products are in development, including a tabletop role-pl
 
 ## Official Links
 
-Official Discord server:
-https://discord.gg/qR6hWDKmfN
+[Official Discord server](https://discord.gg/qR6hWDKmfN)
 
-GitHub Repositories:
-https://github.com/Melancholy-Dev
+[GitHub Repositories](https://github.com/Melancholy-Dev)
 
-Melancholy's Instagram profile:
-https://www.instagram.com/m3l4_nch0ly/
+[Melancholy's Itch.io page](https://melancholydev.itch.io/)
 
-Melancholy's Itch.io page:
-https://melancholydev.itch.io/
+[Official Instagram profile](https://www.instagram.com/coetusinteractive/)
 
-Official Instagram profile:
-https://www.instagram.com/coetusinteractive/
+[Official YouTube channel](https://www.youtube.com/@coetusinteractive)
 
-Official YouTube channel:
-https://www.youtube.com/@coetusinteractive
+[Melancholy's Instagram profile](https://www.instagram.com/m3l4_nch0ly/)
 
 
 ## Copyright and license
