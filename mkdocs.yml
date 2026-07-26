@@ -53,10 +53,16 @@ plugins:
 nav:
   - Home: index.md
   - Products: products.md
-  - Narrative Universe: Narrative Universe/index.md
-  - Lumina Aeterna: Lumina Aeterna/index.md
   - Contributors: contributors.md
   - Wiki Layout Guide: wiki-layout.md
+  - Narrative Universe:
+    - Home: Narrative Universe/index.md
+  - Garden 0:
+    - Home: Garden 0/index.md
+    - Characters:
+      - Eyezor: Garden 0/Characters/Eyezor.md
+  - Lumina Aeterna:
+    - Home: Lumina Aeterna/index.md
 
 extra:
   social:
@@ -65,7 +71,7 @@ extra:
     - icon: simple/discord
       link: https://discord.gg/qR6hWDKmfN
     - icon: simple/instagram
-      link: https://www.instagram.com/m3l4_nch0ly/
+      link: https://www.instagram.com/coetusinteractive/
     - icon: simple/youtube
       link: https://www.youtube.com/@coetusinteractive
 

@@ -18,11 +18,13 @@ The first public release date is still to be determined. A limited group of beta
 
 ## Garden 0
 
+<img src="../assets/logos/garden_0.png" alt="garden_0" style="max-width:300px;">
+
 - **Type:** manga
 - **Status:** published online, with limited physical editions
 - **Creator:** [Zaffy](contributors.md)
 
-Garden 0 is a manga created by Zaffy. It uses an innovative pixel art style and features several characters connected to other Project Lumina products.
+Garden 0 is a manga created by [Zaffy](contributors.md). It uses an innovative pixel art style and features several characters connected to other Project Lumina products.
 
 The manga is published in English as a free-to-read online release, with limited physical editions in Italian and English.
 
@@ -35,6 +37,8 @@ The manga is published in English as a free-to-read online release, with limited
 ---
 
 ## Lumina Nebulae
+
+<img src="../assets/logos/lumina_nebulae.png" alt="lumina_nebulae" style="max-width:300px;">
 
 - **Type:** RPG, 8-bit, horror, turn-based combat
 - **Status:** in development
@@ -52,7 +56,9 @@ The game is expected to be released for free on itch.io. Its source code is alre
 
 ## Lumina Aeterna
 
-- **Type:** RPG, metroidvania, bullet hell
+<img src="../assets/logos/lumina_aeterna.png" alt="lumina_nebulae" style="max-width:300px;">
+
+- **Type:** RPG, bullet hell
 - **Status:** on hold
 - **Related page:** [Lumina Aeterna](Lumina%20Aeterna/index.md)
 

@@ -1,6 +1,6 @@
 # **Lumina Aeterna**
 
-Lumina Aeterna is a pixel art metroidvania RPG set in the Project Lumina universe.
+Lumina Aeterna is a pixel art RPG set in the Project Lumina universe.
 
 ## Overview
 
