@@ -4,17 +4,17 @@ This project exists thanks to the contributions of the following people:
 
 ## Coetus Interactive
 
-- **Melancholy**: main maintainer, lead developer, and designer.
+- **Melancholy**: Lead Developer, Lead Designer, Main Maintainer, Localization (IT/EN).
 
-- **Zaffy**: graphic and narrative designer.
+- **Zaffy**: Main Graphic Designer, Narrative Designer.
 
-- **Ambit**: music designer.
+- **Ambit**: Main Music Designer.
 
-- **Ciuffo**: narrative, game mechanics, and concept designer.
+- **Ciuffo**: Second Graphic Designer, Narrative Designer, Game Mechanics Designer, Concept Designer.
 
-- **Clanvy**: narrative, game mechanics, and concept designer.
+- **Clanvy**: Narrative Designer, Game Mechanics Designer, Concept Designer.
 
-- **Franz**: concept design and localization.
+- **Franz**: Concept Designer, Localization (IT/EN).
 
 If you contributed and your name is missing, feel free to contact the maintainers or open a pull request on GitHub.
 
