@@ -1,6 +1,6 @@
-# **Eyezor**
+# **The Seeker**
 
-**First appearance**: Prologue pt.2
+**First appearance**: Prologue pt.1
 
 !!! note "Missing information"
 

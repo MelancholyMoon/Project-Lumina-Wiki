@@ -1,6 +1,6 @@
-# **Eyezor**
+# **Eira Serafini**
 
-**First appearance**: Prologue pt.2
+**First appearance**: Act 1, Chapter 1
 
 !!! note "Missing information"
 

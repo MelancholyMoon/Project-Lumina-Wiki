@@ -1,6 +1,8 @@
-# **Eyezor**
+# **The Queen**
 
-**First appearance**: Prologue pt.2
+**Full name**: The Queen Bee
+
+**First appearance**: Prologue pt.1
 
 !!! note "Missing information"
 

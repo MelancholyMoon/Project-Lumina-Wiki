@@ -1,6 +1,6 @@
-# **Eyezor**
+# **Eyezor 0**
 
-**First appearance**: Prologue pt.2
+**First appearance**: Act 1, Chapter 4
 
 !!! note "Missing information"
 

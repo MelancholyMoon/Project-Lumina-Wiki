@@ -1,6 +1,6 @@
-# **Eyezor**
+# **Espiride Hamilton**
 
-**First appearance**: Prologue pt.2
+**First appearance**: Act 1, Chapter 3
 
 !!! note "Missing information"
 

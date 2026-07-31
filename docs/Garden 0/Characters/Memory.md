@@ -1,4 +1,4 @@
-# **Eyezor**
+# **Memory**
 
 **First appearance**: Prologue pt.2
 

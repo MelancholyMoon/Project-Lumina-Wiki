@@ -51,18 +51,34 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
-  - Products: products.md
-  - Contributors: contributors.md
-  - Wiki Layout Guide: wiki-layout.md
+  - Home: Home.md
+  - Products: Products.md
+  - Contributors: Contributors.md
+  - Wiki Layout Guide: Wiki Layout.md
   - Narrative Universe:
-    - Home: Narrative Universe/index.md
+    - Home: Narrative Universe/Narrative Universe.md
   - Garden 0:
-    - Home: Garden 0/index.md
+    - Home: Garden 0/Garden 0.md
     - Characters:
+      - The Queen: Garden 0/Characters/The Queen.md
+      - The Sailor: Garden 0/Characters/The Sailor.md
+      - The Seeker: Garden 0/Characters/The Seeker.md
+      - The Creator: Garden 0/Characters/The Creator (G0).md
+      - The Astronaut: Garden 0/Characters/The Astronaut (G0).md
+      - Asha: Garden 0/Characters/Asha.md
+      - Memory: Garden 0/Characters/Memory.md
       - Eyezor: Garden 0/Characters/Eyezor.md
+      - Sona Wellbhart: Garden 0/Characters/Sona Wellbhart.md
+      - Llyv Casanova: Garden 0/Characters/Llyv Casanova.md
+      - Folding Dame: Garden 0/Characters/Folding Dame.md
+      - Eira Serafini: Garden 0/Characters/Eira Serafini.md
+      - Espiride Hamilton: Garden 0/Characters/Espiride Hamilton.md
+      - Eyezor 0: Garden 0/Characters/Eyezor 0.md
   - Lumina Aeterna:
-    - Home: Lumina Aeterna/index.md
+    - Home: Lumina Aeterna/Lumina Aeterna.md
+    - Characters:
+      - The Astronaut: Lumina Aeterna/Characters/The Astronaut (LA).md
+      - The Creator: Lumina Aeterna/Characters/The Creator (LA).md
 
 extra:
   social:

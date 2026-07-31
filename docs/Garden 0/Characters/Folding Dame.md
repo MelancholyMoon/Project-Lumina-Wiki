@@ -1,6 +1,6 @@
-# **Eyezor**
+# **Folding Dame**
 
-**First appearance**: Prologue pt.2
+**First appearance**: Act 1, Chapter 2
 
 !!! note "Missing information"
 
