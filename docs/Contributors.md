@@ -32,6 +32,8 @@ Even if you cannot officially join the team right now, there are several ways to
 - In the future, we may open donations. Even one dollar can make a big difference for a small team like ours.
 - Join the community by making fan-made content, chatting with others, and spreading the word about the project.
 
+---
+
 ## AI Disclaimer
 
 We place great value on human work and creativity. We started developing games and products because we strongly believe in these ideas, in which brainstorming and authentic idea generation are part of our process. For this reason, no AI was used, neither fully nor partially, in the creation of our concepts, mechanics, level design, assets (graphics, drawings, sprites, fonts, sounds, music, etc...) or in any part of our creative writing (story, dialogue, etc...).
