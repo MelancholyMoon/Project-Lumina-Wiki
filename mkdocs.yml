@@ -51,7 +51,7 @@ plugins:
   - search
 
 nav:
-  - Home: Home.md
+  - Home: index.md
   - Products: Products.md
   - Contributors: Contributors.md
   - Wiki Layout Guide: Wiki Layout.md
