@@ -1,4 +1,4 @@
-# **Espiride Hamilton**
+# **Esperide Hamilton**
 
 **First appearance**: Act 1, Chapter 3
 
